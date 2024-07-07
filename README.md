@@ -27,11 +27,11 @@ This Python script automates the process of downloading and installing the Seaml
 
 1. Run the script:
    ```
-   python elden_ring_seamless_coop_installer.py
+   python er_seamless_coop_installer.py
    ```
 2. On first run, you'll be prompted to enter:
    - Your Elden Ring installation directory
-   - Your desired co-op password
+   - Your co-op session password
 3. The script will download the latest mod version, install it, and configure the password.
 
 ## Configuration
